@@ -1,7 +1,0 @@
-{
-  "id": 152,
-  "motion_frame": [
-    {"shoulder": 2650, "elbow": 1850, "wrist": 2450, "duration": 160},
-    {"shoulder": 2750, "elbow": 1950, "wrist": 2550, "duration": 180}
-  ]
-}
