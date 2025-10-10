@@ -1,0 +1,3 @@
+D:/VSCODE/C++/VIROSE/task-2/TASK 2/build/CMakeFiles/test.dir
+D:/VSCODE/C++/VIROSE/task-2/TASK 2/build/CMakeFiles/ALL_BUILD.dir
+D:/VSCODE/C++/VIROSE/task-2/TASK 2/build/CMakeFiles/ZERO_CHECK.dir

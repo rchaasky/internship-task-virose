@@ -1,0 +1,13 @@
+{
+  "robotName": "Nina",
+  "ID": 2,
+  "ESP-NOW": false,
+  "maxSpeed": 1.5,
+  "components": ["Lengan Kiri", "Lengan Kanan", "Kaki Kiri", "Kaki Kanan"],
+  "powerSystem": {
+    "batteryType": "Li-Po",
+    "voltage": 12.5,
+    "cellCount": 1
+  },
+  "lastCalibration": null
+}
