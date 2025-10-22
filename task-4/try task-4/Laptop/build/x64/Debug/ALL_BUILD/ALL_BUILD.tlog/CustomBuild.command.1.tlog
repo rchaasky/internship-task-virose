@@ -1,0 +1,10 @@
+^D:\VSCODE\PLATFORMIO\TRY TASK-4\LAPTOP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/VSCODE/PlatformIO/try task-4/Laptop" "-BD:/VSCODE/PlatformIO/try task-4/Laptop/build" --check-stamp-file "D:/VSCODE/PlatformIO/try task-4/Laptop/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

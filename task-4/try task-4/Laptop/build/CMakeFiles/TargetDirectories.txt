@@ -1,0 +1,3 @@
+D:/VSCODE/PlatformIO/try task-4/Laptop/build/CMakeFiles/laptop.dir
+D:/VSCODE/PlatformIO/try task-4/Laptop/build/CMakeFiles/ALL_BUILD.dir
+D:/VSCODE/PlatformIO/try task-4/Laptop/build/CMakeFiles/ZERO_CHECK.dir
